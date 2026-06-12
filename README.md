@@ -74,8 +74,9 @@ Visuals:
 Data/
 Python/
 SQL/
-PowerBI/
-Screenshots/
+PowerBI/## Dashboard Preview
 
+**</> Markdown**
 ## Dashboard Preview
-https://github.com/Tuhina285/HR_Analytics/blob/main/Screenshot/Screenshot%202026-06-12%20101948.png
+![HR Analytics](Screenshot/Dashboard.png)
+
