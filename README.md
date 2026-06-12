@@ -1,6 +1,3 @@
-# HR_Analytics
-HR Analytics Dashboard using Python, SQL and Power BI to analyze employee attrition patterns.
-
 # HR Analytics Dashboard – Employee Attrition Analysis
 
 ## Project Overview
@@ -26,7 +23,7 @@ Performed in Python using Pandas:
 
 * Missing value check
 * Duplicate check
-* Outlier analysis using IQR
+* Outlier analysis using Boxplot
 * Age Band creation
 * Salary Bucket creation
 * Tenure Group creation
